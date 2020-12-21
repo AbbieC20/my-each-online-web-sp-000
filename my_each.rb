@@ -4,7 +4,7 @@ end
 
 
 #i = 0
-#while i < array
+#while i < array.length
 #  return i
 #  i += 1
 #end
