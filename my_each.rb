@@ -3,8 +3,5 @@ def my_each(array)
   while i < array
     return i
     i += 1
-  end 
+  end
 end
-
-
-
